@@ -7,7 +7,7 @@ public class Main {
         String razza;
         int eta, scelta;
         float peso;
-        ArrayList<Animale> animali = new ArrayList<Animale>();
+        ArrayList<Animale> animali = new ArrayList<>();
         Scanner userInput = new Scanner(System.in);
 
         do {
